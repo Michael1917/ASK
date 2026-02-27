@@ -100,7 +100,7 @@ demod = np.repeat(dec, bd)
 
 # Plot
 plt.figure(figsize=(10,10))
-plt.suptitle("NAME : NANDISH P \nREG NO : 212224060166",
+plt.suptitle("NAME : Michael Justus W \nREG NO : 212224060151",
              fontsize=12, fontweight='bold')
 
 plt.subplot(5,1,1); plt.plot(t, msg); plt.title("Message Signal")
@@ -114,10 +114,12 @@ plt.show()
 ```
 # Output Waveform
 # ASK
-<img width="1235" height="1120" alt="image" src="https://github.com/user-attachments/assets/2c2ea708-8566-4a79-9da3-5cb1e0c344ee" />
+<img width="978" height="887" alt="image" src="https://github.com/user-attachments/assets/8233f0fb-a8d3-40e8-bfbd-e21ca7cc505d" />
+
 # FSK
 
-<img width="744" height="725" alt="image" src="https://github.com/user-attachments/assets/04a95165-98ae-45f2-ad37-7b5a83a6840c" />
+<img width="989" height="985" alt="image" src="https://github.com/user-attachments/assets/1f662bee-5a56-4f2a-b504-20bacd6316a6" />
+
 
 # Results
 Thus, the ASK and FSK were performed using Colab
