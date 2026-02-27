@@ -38,7 +38,7 @@ decoded = (demod[::fs//br] > 0.25).astype(int)
 
 # Plot
 plt.figure(figsize=(10,9))
-plt.suptitle("NAME : NANDISH P \nREG NO : 212224060166",
+plt.suptitle("NAME : Michael Justus W \nREG NO : 212224060151",
              fontsize=12, fontweight='bold')  
 
 plt.subplot(4,1,1)
